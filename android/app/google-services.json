@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586286247266",
+    "project_id": "newpro-c9347",
+    "storage_bucket": "newpro-c9347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586286247266:android:ec83f4eb8e2b697dd1103b",
+        "android_client_info": {
+          "package_name": "com.example.newpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586286247266-sl34mug3ht7a7gk4bbt754hkkur0bne3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiqQuJ0xhyHoJTHWfiPEoAUg-3twA7m_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586286247266-sl34mug3ht7a7gk4bbt754hkkur0bne3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
